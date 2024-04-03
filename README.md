@@ -19,14 +19,14 @@ Welcome to the classic Snake Game implemented in Java! This game provides an int
 
 ## Screenshots
 
-![Starting Screen]([assets/starting_screen.png](https://github.com/Likithasowji-500k/Snake-game-using-java/assets/121708442/9f4ba682-2d25-4db6-b1be-8e616f2d4b5b))
+![Starting Screen](https://github.com/Likithasowji-500k/Snake-game-using-java/raw/b1aef1ec84205533a09508a44c0f2c82afa60027/output_images/syatrting%20game.jpeg)
 *The starting screen of the game, prompting the player to start the game.*
 
-![Gameplay](ttps://github.com/Likithasowji-500k/Snake-game-using-java/assets/121708442/e114707c-183d-4089-8713-9defbc57e941)
+![Gameplay](https://github.com/Likithasowji-500k/Snake-game-using-java/raw/b1aef1ec84205533a09508a44c0f2c82afa60027/output_images/game%20and%20snake.jpeg)
 *Gameplay screenshot showing the snake and apples.*
 
-![Game Over](assets/game_over.png)
-*Game over screen displayed when the snake collides with a wall or itself.*
+
+
 
 ## How to Run
 - Clone the repository to your local machine.
@@ -42,6 +42,3 @@ This game was developed by Likithasowji-500k.
 Enjoy the game!
 
 
-![snakegame2](https://github.com/Likithasowji-500k/Snake-game-using-java/assets/121708442/9f4ba682-2d25-4db6-b1be-8e616f2d4b5b)
-![syatrting game](https://github.com/Likithasowji-500k/Snake-game-using-java/assets/121708442/b1ee67b6-0ffc-49d6-966f-081b144fb45f)
-![game and snake](https://github.com/Likithasowji-500k/Snake-game-using-java/assets/121708442/e114707c-183d-4089-8713-9defbc57e941)
