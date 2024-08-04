@@ -6,7 +6,7 @@ Welcome to the classic Snake Game implemented in Java! This game provides an int
 - The objective is to guide the snake to eat as many apples as possible without colliding with the walls or the snake's own body.
 - Eating apples increases the length of the snake and the player's score.
 - At a periodical interval there appeard another big colour ball where the snake eats its doubles the score
-- The game ends when the snake collides with a wall or itself or by eating a dnager ball which appers in a perodic time interval.
+- The game ends when the snake collides with a wall or itself or by eating a danger ball which appers in a periodic time interval.
 - Various features and enhancements have been added to make the gameplay more engaging.
 
 ## How to Play
